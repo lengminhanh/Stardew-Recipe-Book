@@ -1,0 +1,8 @@
+table_spring = table[4]
+table_summer = table[5]
+table_fall = table[6]
+table_winter = table[7]
+table_beach = table[8]
+table_mines = table[9]
+table_desert = table[10]
+table_gingerisland = table[11]
